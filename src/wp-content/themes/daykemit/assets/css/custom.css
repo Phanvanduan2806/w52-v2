@@ -1,0 +1,136 @@
+.slicknav_menu {
+    background-color: transparent !important;
+}
+
+.single_feature_one {
+    padding: 20px !important;
+    margin-bottom: 1rem;
+}
+
+.single_feature_one p {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    width: 100% !important;
+}
+
+.sf_top {
+    display: flex;
+    align-items: center;
+}
+
+.sf_top h2 a {
+    font-size: 16px;
+    line-height: unset;
+}
+
+.sf_top span {
+    min-width: 65px;
+}
+.counts .count-box p {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    width: 100% !important;
+}
+/* =========== Reponesive=========== */
+@media (max-width: 850px) {
+    
+    .section_top {
+        margin-bottom: 1rem;
+    }
+
+    .section_top h4 {
+        font-size: 14px;
+    }
+
+    .section_top h2 {
+        font-size: 24px;
+    }
+
+    .section_top p {
+        width: 100%;
+    }
+
+    .single_tp {
+        margin-bottom: 1rem;
+    }
+
+    .ab_content h2 {
+        font-size: 24px;
+        line-height: 1.2;
+        margin-bottom: 1rem;
+    }
+
+    .ab_img {
+        margin: unset !important;
+    }
+
+    .section-title {
+        margin-bottom: 1rem;
+    }
+
+    .section-title h2 {
+        font-size: 14px;
+    }
+
+    .section-title p {
+        font-size: 24px;
+        line-height: 1.2;
+        width: unset;
+    }
+
+    .single_tca {
+        margin-bottom: 1rem;
+    }
+
+    .cc_btn {
+        margin-top: unset;
+    }
+
+    .single_feature_one {
+        padding: 20px;
+    }
+    .cp_content h4{
+        font-size: 14px;
+    }
+    .cp_content h2{
+        font-size: 24px;
+    }
+    .cp_content ul li{
+        width: 100%;
+        font-size: 14px;
+    }
+    .partner_logo{
+        margin-bottom: 1rem;
+    }
+    .partner-logo{
+        padding-bottom: 1rem;
+    }
+    .content_box{
+        padding: 20px 10px;
+    }
+    .single_blog{
+        margin-bottom: 1rem;
+    }
+    .single_blog h2{
+        font-size: 16px;
+    }
+    .blog_area{
+        padding-bottom: 1rem;
+    }
+    .subs_form h3{
+        font-size: 24px;
+    }
+    .testi_home_area{
+        padding-bottom: 1rem;
+    }
+}
+
+@media (max-width: 550px) {
+    .fc {
+        margin-top: unset;
+    }
+}

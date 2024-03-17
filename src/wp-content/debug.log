@@ -1,0 +1,107 @@
+[07-Mar-2024 08:30:34 UTC] PHP Warning:  require_once(/includes/block/index.php): Failed to open stream: No such file or directory in /var/www/html/wp-content/themes/daykemit/functions.php on line 2
+[07-Mar-2024 08:30:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/includes/block/index.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/themes/daykemit/functions.php:2
+Stack trace:
+#0 /var/www/html/wp-settings.php(611): include()
+#1 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#2 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#4 /var/www/html/index.php(17): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/daykemit/functions.php on line 2
+[07-Mar-2024 08:30:34 UTC] PHP Warning:  require_once(/includes/block/index.php): Failed to open stream: No such file or directory in /var/www/html/wp-content/themes/daykemit/functions.php on line 2
+[07-Mar-2024 08:30:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/includes/block/index.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/themes/daykemit/functions.php:2
+Stack trace:
+#0 /var/www/html/wp-settings.php(611): include()
+#1 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#2 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#4 /var/www/html/index.php(17): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/daykemit/functions.php on line 2
+[07-Mar-2024 08:30:57 UTC] PHP Warning:  require_once(/includes/block/index.php): Failed to open stream: No such file or directory in /var/www/html/wp-content/themes/daykemit/functions.php on line 2
+[07-Mar-2024 08:30:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/includes/block/index.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/themes/daykemit/functions.php:2
+Stack trace:
+#0 /var/www/html/wp-settings.php(611): include()
+#1 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#2 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#4 /var/www/html/index.php(17): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/daykemit/functions.php on line 2
+[07-Mar-2024 08:30:57 UTC] PHP Warning:  require_once(/includes/block/index.php): Failed to open stream: No such file or directory in /var/www/html/wp-content/themes/daykemit/functions.php on line 2
+[07-Mar-2024 08:30:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/includes/block/index.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/themes/daykemit/functions.php:2
+Stack trace:
+#0 /var/www/html/wp-settings.php(611): include()
+#1 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#2 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#4 /var/www/html/index.php(17): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/daykemit/functions.php on line 2
+[07-Mar-2024 08:35:55 UTC] PHP Warning:  Undefined array key "taxonomy" in /var/www/html/wp-content/plugins/copy-delete-posts/post/handler.php on line 478
+[07-Mar-2024 08:35:55 UTC] PHP Warning:  Undefined array key "taxonomy" in /var/www/html/wp-content/plugins/copy-delete-posts/post/handler.php on line 479
+[07-Mar-2024 08:50:04 UTC] PHP Warning:  require_once(/includes/shortcodes/index.php): Failed to open stream: No such file or directory in /var/www/html/wp-content/themes/daykemit/functions.php on line 3
+[07-Mar-2024 08:50:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/includes/shortcodes/index.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/themes/daykemit/functions.php:3
+Stack trace:
+#0 /var/www/html/wp-settings.php(611): include()
+#1 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#2 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#4 /var/www/html/index.php(17): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/daykemit/functions.php on line 3
+[07-Mar-2024 08:50:04 UTC] PHP Warning:  require_once(/includes/shortcodes/index.php): Failed to open stream: No such file or directory in /var/www/html/wp-content/themes/daykemit/functions.php on line 3
+[07-Mar-2024 08:50:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/includes/shortcodes/index.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/themes/daykemit/functions.php:3
+Stack trace:
+#0 /var/www/html/wp-settings.php(611): include()
+#1 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#2 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#4 /var/www/html/index.php(17): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/daykemit/functions.php on line 3
+[07-Mar-2024 09:03:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/wp-content/themes/daykemit/includes/block/index.php on line 6
+[07-Mar-2024 09:04:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/daykemit/includes/block/cb_team_member.php:1) in /var/www/html/wp-admin/admin-ajax.php on line 27
+[07-Mar-2024 09:04:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/daykemit/includes/block/cb_team_member.php:1) in /var/www/html/wp-admin/admin-ajax.php on line 28
+[07-Mar-2024 09:04:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/daykemit/includes/block/cb_team_member.php:1) in /var/www/html/wp-includes/functions.php on line 6936
+[07-Mar-2024 09:04:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/daykemit/includes/block/cb_team_member.php:1) in /var/www/html/wp-admin/includes/misc.php on line 1431
+[07-Mar-2024 09:04:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/daykemit/includes/block/cb_team_member.php:1) in /var/www/html/wp-includes/functions.php on line 7049
+[07-Mar-2024 09:49:24 UTC] PHP Warning:  require_once(/var/www/html/wp-content/themes/daykemit/includes/shortcodes/c_khoa_hoc.php): Failed to open stream: No such file or directory in /var/www/html/wp-content/themes/daykemit/includes/shortcodes/index.php on line 3
+[07-Mar-2024 09:49:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-content/themes/daykemit/includes/shortcodes/c_khoa_hoc.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/themes/daykemit/includes/shortcodes/index.php:3
+Stack trace:
+#0 /var/www/html/wp-content/themes/daykemit/functions.php(3): require_once()
+#1 /var/www/html/wp-settings.php(611): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/daykemit/includes/shortcodes/index.php on line 3
+[07-Mar-2024 09:56:13 UTC] PHP Warning:  Undefined array key "taxonomy" in /var/www/html/wp-content/plugins/copy-delete-posts/post/handler.php on line 478
+[07-Mar-2024 09:56:13 UTC] PHP Warning:  Undefined array key "taxonomy" in /var/www/html/wp-content/plugins/copy-delete-posts/post/handler.php on line 479
+[08-Mar-2024 06:06:19 UTC] PHP Warning:  Undefined array key "taxonomy" in /var/www/html/wp-content/plugins/copy-delete-posts/post/handler.php on line 478
+[08-Mar-2024 06:06:19 UTC] PHP Warning:  Undefined array key "taxonomy" in /var/www/html/wp-content/plugins/copy-delete-posts/post/handler.php on line 479
+[08-Mar-2024 06:34:06 UTC] PHP Warning:  Attempt to read property "cat_ID" on null in /var/www/html/wp-content/themes/daykemit/search.php on line 16
+[08-Mar-2024 06:35:56 UTC] PHP Warning:  Attempt to read property "cat_ID" on null in /var/www/html/wp-content/themes/daykemit/search.php on line 16
+[08-Mar-2024 06:36:04 UTC] PHP Warning:  Attempt to read property "cat_ID" on null in /var/www/html/wp-content/themes/daykemit/search.php on line 16
+[08-Mar-2024 06:36:24 UTC] PHP Warning:  Attempt to read property "cat_ID" on null in /var/www/html/wp-content/themes/daykemit/search.php on line 16
+[08-Mar-2024 06:47:03 UTC] PHP Warning:  Attempt to read property "cat_ID" on null in /var/www/html/wp-content/themes/daykemit/search.php on line 16
+[08-Mar-2024 06:49:43 UTC] PHP Warning:  Attempt to read property "cat_ID" on null in /var/www/html/wp-content/themes/daykemit/search.php on line 16
+[08-Mar-2024 06:50:10 UTC] PHP Warning:  Attempt to read property "cat_ID" on null in /var/www/html/wp-content/themes/daykemit/search.php on line 16
+[08-Mar-2024 06:50:16 UTC] PHP Warning:  Attempt to read property "cat_ID" on null in /var/www/html/wp-content/themes/daykemit/search.php on line 16
+[08-Mar-2024 06:52:08 UTC] PHP Warning:  Attempt to read property "cat_ID" on null in /var/www/html/wp-content/themes/daykemit/search.php on line 16
+[08-Mar-2024 06:52:11 UTC] PHP Warning:  Attempt to read property "cat_ID" on null in /var/www/html/wp-content/themes/daykemit/search.php on line 16
+[08-Mar-2024 06:53:55 UTC] PHP Warning:  Attempt to read property "cat_ID" on null in /var/www/html/wp-content/themes/daykemit/search.php on line 16
+[11-Mar-2024 09:26:26 UTC] PHP Warning:  Attempt to read property "term_id" on bool in /var/www/html/wp-content/themes/daykemit/includes/shortcodes/c_list_khoa_hoc.php on line 11
+[14-Mar-2024 09:45:48 UTC] PHP Warning:  Undefined variable $post_link in /var/www/html/wp-content/themes/daykemit/single.php on line 195
+[14-Mar-2024 09:45:50 UTC] PHP Warning:  Undefined variable $post_link in /var/www/html/wp-content/themes/daykemit/single.php on line 195
+[14-Mar-2024 09:48:16 UTC] PHP Warning:  Undefined variable $post_link in /var/www/html/wp-content/themes/daykemit/single.php on line 195
+[14-Mar-2024 11:04:23 UTC] PHP Warning:  Undefined variable $post_link in /var/www/html/wp-content/themes/daykemit/single.php on line 197
+[14-Mar-2024 11:04:29 UTC] PHP Warning:  Attempt to read property "cat_ID" on null in /var/www/html/wp-content/themes/daykemit/search.php on line 16
+[14-Mar-2024 11:07:13 UTC] PHP Warning:  Undefined variable $post_link in /var/www/html/wp-content/themes/daykemit/single.php on line 197
+[14-Mar-2024 11:07:52 UTC] PHP Warning:  Undefined variable $post_link in /var/www/html/wp-content/themes/daykemit/single.php on line 197
+[14-Mar-2024 11:10:57 UTC] PHP Warning:  Undefined variable $post_link in /var/www/html/wp-content/themes/daykemit/single.php on line 197
+[14-Mar-2024 11:11:02 UTC] PHP Warning:  Undefined variable $post_link in /var/www/html/wp-content/themes/daykemit/single.php on line 197
+[14-Mar-2024 11:11:05 UTC] PHP Warning:  Undefined variable $post_link in /var/www/html/wp-content/themes/daykemit/single.php on line 197
+[14-Mar-2024 11:11:06 UTC] PHP Warning:  Undefined variable $post_link in /var/www/html/wp-content/themes/daykemit/single.php on line 197
+[14-Mar-2024 11:16:54 UTC] PHP Warning:  Undefined variable $post_link in /var/www/html/wp-content/themes/daykemit/single.php on line 197
+[14-Mar-2024 11:18:14 UTC] PHP Warning:  Undefined variable $post_link in /var/www/html/wp-content/themes/daykemit/single.php on line 197
